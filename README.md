@@ -1,4 +1,4 @@
-# 🍊 Pipoly.app
+# Pipoly.app
 
 > **Earn from anywhere. Post tasks that get done.**
 
