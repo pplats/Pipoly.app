@@ -1,5 +1,13 @@
 # Pipoly.app: Empowering Global Microtasking and Freelancing
 
+> **Earn from anywhere. Post tasks that get done.**
+
+[![Live](https://img.shields.io/badge/Web-pipoly.app-E8693A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pipoly.app)
+[![Android](https://img.shields.io/badge/Google_Play-com.codeverix.pipoly-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.codeverix.pipoly)
+[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)]()
+
+---
+
 ## Overview
 
 Pipoly.app stands as a pioneering platform at the intersection of microtasking and freelancing, meticulously designed to connect individuals seeking flexible earning opportunities with businesses and individuals requiring efficient, distributed work completion. Our ecosystem fosters a dynamic environment where micro-entrepreneurs can leverage their skills to earn income from virtually anywhere, while employers gain access to a global workforce capable of executing diverse tasks with precision and speed. This repository serves as a comprehensive public hub for community engagement, issue tracking, and transparent communication regarding the Pipoly.app platform.
@@ -58,7 +66,11 @@ Pipoly.app utilizes a proprietary virtual currency, **Value (ⓥ)**, to facilita
 
 ## Mobile Application
 
-The Pipoly.app mobile experience is delivered through a native Android application, developed with **Capacitor 8**, ensuring a responsive and integrated user interface. The application is available on the Google Play Store.
+The Pipoly.app mobile experience is delivered through a native Android application, developed with **Capacitor 8**, ensuring a responsive and integrated user interface.
+
+<a href="https://play.google.com/store/apps/details?id=com.codeverix.pipoly">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Get it on Google Play"/>
+</a>
 
 **App ID:** `com.codeverix.pipoly`
 
