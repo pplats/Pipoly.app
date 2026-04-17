@@ -1,0 +1,34 @@
+Pipoly.app Research Notes:
+
+Core Features:
+- Microtasks: Quick data entry, categorization, verification.
+- Paid Surveys: CPX Research integration.
+- Micro-Freelancing: Writing, design, translation.
+- Daily Challenges: Nim game (beat AI), daily polls.
+- Games: Competitive Chess, Connect Four, Tic-Tac-Toe with wagers.
+- Referral Program: Earn when referrals reach earning milestones.
+
+Currency & Payments:
+- Virtual Currency: Value (ⓥ).
+- Rate: 1 ⓥ = $0.01 USD.
+- Rate (Kenya): 1 ⓥ = 1.2 KES.
+- Methods: PayPal ($5 min, 10% fee), M-Pesa (50 ⓥ min, tiered fees).
+- Conversion: 10 Points (ⓟ) = 1 Value (ⓥ).
+
+Technical:
+- Mobile App: Native Android built with Capacitor 8.
+- App ID: com.codeverix.pipoly.
+- Website: https://pipoly.app.
+
+Visual Style:
+- Colors: Primary orange/coral (#E8693A), dark background, colorful cards (teal, orange, red, gold).
+- Font: Serif for headings, Sans-serif for body.
+- Logo: Stylized "P" in orange.
+
+Screenshots to Generate (Google Play Store standards):
+1. Home Dashboard: Show balance, streak, and urgent surveys.
+2. Offers & Games: Show survey and game options.
+3. Task List: Show available microtasks with rewards and slots.
+4. Referral Race: Show the competitive leaderboard and prize pools.
+5. Withdrawal: Show the professional payment interface.
+6. Daily Challenge: Show the Nim game or daily poll.

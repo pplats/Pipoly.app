@@ -1,118 +1,123 @@
-# Pipoly.app
+# Pipoly.app: Empowering Global Microtasking and Freelancing
 
-> **Earn from anywhere. Post tasks that get done.**
+## Overview
 
-[![Live](https://img.shields.io/badge/Web-pipoly.app-E8693A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pipoly.app)
-[![Android](https://img.shields.io/badge/Google_Play-com.codeverix.pipoly-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.codeverix.pipoly)
-[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)]()
+Pipoly.app stands as a pioneering platform at the intersection of microtasking and freelancing, meticulously designed to connect individuals seeking flexible earning opportunities with businesses and individuals requiring efficient, distributed work completion. Our ecosystem fosters a dynamic environment where micro-entrepreneurs can leverage their skills to earn income from virtually anywhere, while employers gain access to a global workforce capable of executing diverse tasks with precision and speed. This repository serves as a comprehensive public hub for community engagement, issue tracking, and transparent communication regarding the Pipoly.app platform.
 
----
+## The Pipoly.app Vision
 
-Pipoly is a **microtask and earning platform** connecting workers who complete simple online tasks with employers who need reliable, distributed work done — fast.
+In an increasingly interconnected world, Pipoly.app addresses the growing demand for flexible work arrangements and scalable task management solutions. Our vision is to democratize access to earning opportunities and streamline the process of outsourcing micro-tasks, thereby empowering a global community of workers and facilitating efficient project completion for employers. We believe in a future where earning potential is not limited by geographical boundaries or traditional employment structures.
 
-Workers earn **Value (ⓥ)**, Pipoly's virtual currency, by completing tasks, taking surveys, playing competitive games, and more. Employers post tasks, review submissions, and pay only for approved work.
+## Key Features and Benefits
 
----
+Pipoly.app offers a robust suite of features tailored to meet the needs of both its worker and employer communities.
 
-## ✨ What You Can Do
+### For Workers: Unlock Your Earning Potential
 
-### As a Worker
-- ✅ Complete microtasks and get paid per approval
-- 📋 Take surveys powered by CPX Research
-- 📲 Earn from app installs via OGAds
-- ♟️ Play competitive Chess, Connect Four, and Tic-Tac-Toe for wagered ⓥ
-- 🎯 Beat the daily Nim challenge for 2× rewards
-- 📊 Vote on daily polls for easy earnings
-- 🔗 Click earning links to accumulate Points (ⓟ → ⓥ)
-- 🏆 Climb the referral leaderboard for weekly prize pools
-- 💸 Withdraw via **PayPal** or **M-Pesa**
+Workers on Pipoly.app can engage in a variety of activities designed to maximize their earning potential, all while maintaining flexibility and control over their work schedule.
 
-### As an Employer
-- 📝 Post tasks with custom proof requirements and deadlines
-- 👥 Target workers by country, rating, or qualification
-- 🔒 Funds held in escrow — released only on approval
-- ⭐ Rate worker submissions and build a trusted team
-- 📈 Track task progress and submission analytics
-- 🎫 Create promo codes and reward campaigns
+*   **Diverse Microtask Opportunities:** Participate in a wide array of microtasks, ranging from data entry and content categorization to verification processes, each offering clear compensation per approved submission.
+*   **Paid Surveys:** Contribute valuable insights through surveys powered by leading research platforms such as CPX Research, earning rewards for your opinions on products, services, and market trends.
+*   **App Install Earnings:** Generate income through strategic app installations facilitated by partnerships with platforms like OGAds, expanding earning avenues beyond traditional tasks.
+*   **Competitive Gaming:** Engage in skill-based games such as Chess, Connect Four, and Tic-Tac-Toe, where Value (ⓥ), Pipoly's virtual currency, can be wagered and won, adding an exciting dimension to earning.
+*   **Daily Challenges:** Test your abilities with daily challenges, including strategic encounters against an AI in the Nim game, offering amplified rewards for successful completion.
+*   **Interactive Polls:** Participate in daily polls, providing quick and easy opportunities to accumulate earnings through minimal effort.
+*   **Earning Links:** Accumulate Points (ⓟ) by interacting with earning links, which are subsequently convertible into Value (ⓥ).
+*   **Referral Leaderboard:** Ascend the referral leaderboard by inviting new users to the platform, competing for weekly prize pools and fostering community growth.
+*   **Flexible Withdrawals:** Conveniently withdraw earned funds via established payment gateways such as PayPal and M-Pesa, ensuring accessibility and reliability.
 
----
+### For Employers: Efficient Task Management and Global Workforce Access
 
-## 🌍 Supported Languages
+Employers leverage Pipoly.app to efficiently manage projects, access a diverse global talent pool, and ensure timely completion of tasks.
 
-Pipoly is available in **14 languages**, including Arabic, Spanish, French, Portuguese, Swahili, Hindi, and more.
+*   **Customizable Task Posting:** Define and post tasks with granular control over proof requirements, deadlines, and specific instructions, ensuring alignment with project objectives.
+*   **Targeted Worker Selection:** Precisely target workers based on geographical location, performance ratings, or specific qualifications, optimizing task allocation for desired outcomes.
+*   **Escrow-Based Fund Security:** Funds allocated for tasks are held securely in escrow, released only upon the employer's approval of submitted work, guaranteeing fair compensation and quality assurance.
+*   **Performance Rating System:** Evaluate worker submissions and provide ratings, contributing to the development of a trusted and high-performing workforce.
+*   **Comprehensive Analytics:** Monitor task progress and analyze submission data through intuitive dashboards, providing actionable insights into project efficiency and worker performance.
+*   **Promotional Campaigns:** Create and manage promotional codes and reward campaigns to incentivize worker participation and enhance task visibility.
 
----
+## Supported Languages
 
-## 💳 Currency & Withdrawals
+Pipoly.app is committed to global accessibility, offering its platform in **14 languages**, including but not limited to Arabic, Spanish, French, Portuguese, Swahili, and Hindi, ensuring a seamless experience for a diverse international user base.
 
-| Method | Minimum | Fee |
-|--------|---------|-----|
-| PayPal | $5.00 | 10% |
-| M-Pesa | 50 ⓥ | 30% (< 250ⓥ) / 10% (≥ 250ⓥ) |
+## Currency and Withdrawal Mechanisms
 
-> 10 Points (ⓟ) = 1 Value (ⓥ)
+Pipoly.app utilizes a proprietary virtual currency, **Value (ⓥ)**, to facilitate transactions within its ecosystem. The conversion rates and withdrawal options are structured for clarity and user convenience.
 
----
+| Method | Minimum Withdrawal | Fee Structure |
+|:-------|:-------------------|:--------------|
+| PayPal | $5.00 USD | 10% of withdrawal amount |
+| M-Pesa | 50 ⓥ | 30% for withdrawals under 250 ⓥ; 10% for withdrawals 250 ⓥ and above |
 
-## 📱 Mobile App
+**Conversion Rate:** 10 Points (ⓟ) = 1 Value (ⓥ)
 
-Pipoly is available as a native Android app built with **Capacitor 8**.
+**Value to USD Exchange Rate:** 1 ⓥ = $0.01 USD
 
-<a href="https://play.google.com/store/apps/details?id=com.codeverix.pipoly">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Get it on Google Play"/>
-</a>
+**Value to KES (Kenya) Exchange Rate:** 1 ⓥ = 1.2 KES
+
+## Mobile Application
+
+The Pipoly.app mobile experience is delivered through a native Android application, developed with **Capacitor 8**, ensuring a responsive and integrated user interface. The application is available on the Google Play Store.
 
 **App ID:** `com.codeverix.pipoly`
 
----
+## Screenshots
 
-## 🐛 Bug Reports & Feature Requests
+Experience the intuitive design and comprehensive functionality of Pipoly.app through these high-quality screenshots, optimized for the Google Play Store.
 
-Found a bug or have a suggestion? We'd love to hear from you!
+### Earn Money Daily
 
-👉 [Open an Issue](../../issues/new/choose)
+![Pipoly.app Dashboard](assets/screenshot_1_dashboard.png)
 
-Please include:
-- A clear description of the problem or idea
-- Steps to reproduce (for bugs)
-- Your device/browser if relevant
-- Screenshots if helpful
+### Complete Simple Tasks
 
----
+![Pipoly.app Tasks](assets/screenshot_2_tasks.png)
 
-## 📋 Changelog
+### Play Games, Win Rewards
 
-See [CHANGELOG.md](./CHANGELOG.md) for a full history of updates and releases.
+![Pipoly.app Games](assets/screenshot_3_games.png)
 
----
+### Fast & Secure Payouts
 
-## 🗺️ Roadmap
+![Pipoly.app Payouts](assets/screenshot_4_payouts.png)
 
-We're always improving Pipoly. Upcoming focus areas:
+## Bug Reports and Feature Requests
 
-- [ ] iOS app (Capacitor)
-- [ ] More competitive game types
-- [ ] Additional withdrawal methods
-- [ ] Employer subscription tiers
-- [ ] Public API for task integrations
+We highly value community feedback for the continuous improvement of Pipoly.app. Should you encounter any bugs or have suggestions for new features, we encourage you to engage with our development process.
 
-Have a feature idea? [Start a Discussion](../../discussions/new) or [open a feature request](../../issues/new?template=feature_request.md).
+To report an issue or propose a feature, please utilize our [GitHub Issues](../../issues/new/choose) page. When submitting, kindly include:
 
----
+*   A clear and concise description of the problem or proposed idea.
+*   Detailed steps to reproduce the bug, if applicable.
+*   Information regarding your device and browser environment.
+*   Relevant screenshots to illustrate the issue or concept.
 
-## 🔗 Links
+## Changelog
 
-| | |
-|---|---|
-| 🌐 Web App | [pipoly.app](https://pipoly.app) |
-| 📲 Android App | [Play Store](https://play.google.com/store/apps/details?id=com.codeverix.pipoly) |
-| 🐛 Issues | [GitHub Issues](../../issues) |
-| 💬 Discussions | [GitHub Discussions](../../discussions) |
+For a comprehensive history of updates, enhancements, and releases, please refer to the [CHANGELOG.md](./CHANGELOG.md) file within this repository.
 
----
+## Roadmap
 
-## 📄 License
+Pipoly.app is committed to continuous innovation and expansion. Our strategic roadmap includes several key development areas:
 
-Pipoly is proprietary software. © Codeverix. All rights reserved.
+*   **iOS Application Development:** Expansion to the iOS platform using Capacitor.
+*   **Enhanced Gaming Options:** Introduction of additional competitive game types to enrich the user experience.
+*   **Diversified Withdrawal Methods:** Integration of more withdrawal options to cater to a broader global audience.
+*   **Employer Subscription Tiers:** Implementation of tiered subscription models for employers, offering advanced features and benefits.
+*   **Public API:** Development of a public API to facilitate seamless task integrations with external systems.
 
-This repository contains no source code — it serves as a public hub for issue tracking, changelogs, and community discussion.
+We welcome community input on our roadmap. Feel free to [start a discussion](../../discussions/new) or [open a feature request](../../issues/new?template=feature_request.md) with your ideas.
+
+## Important Links
+
+| Resource | Link |
+|:---------|:-----|
+| Web Application | [pipoly.app](https://pipoly.app) |
+| Android Application | [Google Play Store](https://play.google.com/store/apps/details?id=com.codeverix.pipoly) |
+| GitHub Issues | [GitHub Issues](../../issues) |
+| GitHub Discussions | [GitHub Discussions](../../discussions) |
+
+## License
+
+Pipoly.app operates as proprietary software. All intellectual property rights are reserved by © Codeverix. This repository is intended solely as a public interface for community interaction, issue tracking, and the dissemination of changelogs, and does not contain the platform's source code.
