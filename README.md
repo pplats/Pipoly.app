@@ -66,21 +66,20 @@ The Pipoly.app mobile experience is delivered through a native Android applicati
 
 Experience the intuitive design and comprehensive functionality of Pipoly.app through these high-quality screenshots, optimized for the Google Play Store.
 
-### Earn Money Daily
-
+### 1. Earn Money Daily
 ![Pipoly.app Dashboard](assets/screenshot_1_dashboard.png)
 
-### Complete Simple Tasks
+### 2. Many Ways to Earn
+![Pipoly.app Ways to Earn](assets/screenshot_2_ways_to_earn.png)
 
-![Pipoly.app Tasks](assets/screenshot_2_tasks.png)
+### 3. Complete Simple Tasks
+![Pipoly.app Tasks](assets/screenshot_3_tasks.png)
 
-### Play Games, Win Rewards
-
-![Pipoly.app Games](assets/screenshot_3_games.png)
-
-### Fast & Secure Payouts
-
+### 4. Flexible Withdrawal Options
 ![Pipoly.app Payouts](assets/screenshot_4_payouts.png)
+
+### 5. Play Games, Win Rewards
+![Pipoly.app Games](assets/screenshot_5_games.png)
 
 ## Bug Reports and Feature Requests
 
